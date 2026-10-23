@@ -1,0 +1,76 @@
+{
+  "exhibit": "E15",
+  "label": "Selected allegations from original complaint",
+  "source_path": "a5bf0c6d-2da1-40c9-87c2-8445fb0f502c.pdf",
+  "source_sha256": "60ec167ab70b372592827a1de306dba0129eb9a4b39a49fd705c33bab694565b",
+  "source_page_count": 119,
+  "case_number": "25-006213-CI",
+  "filing_number": "235038945",
+  "filed_date": "2025-11-03",
+  "court": "Circuit Court of the Sixth Judicial Circuit, Pinellas County, Florida",
+  "source_status": "Filed complaint bearing an electronic court filing stamp; a complaint, not a court ruling",
+  "output_file": "complaint_key_pages.pdf",
+  "output_sha256": "626473b7a2dea5b658830c2edbae872fb9c6319fe95f536b766eb43d56ad1e4b",
+  "output_page_count": 8,
+  "selected_source_pages": [
+    1,
+    7,
+    8,
+    10,
+    11,
+    12,
+    15
+  ],
+  "page_mapping": [
+    {
+      "excerpt_page": 1,
+      "kind": "Document guide"
+    },
+    {
+      "excerpt_page": 2,
+      "source_pdf_page": 1,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 3,
+      "source_pdf_page": 7,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 4,
+      "source_pdf_page": 8,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 5,
+      "source_pdf_page": 10,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 6,
+      "source_pdf_page": 11,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 7,
+      "source_pdf_page": 12,
+      "visible_content": "unchanged complete source page"
+    },
+    {
+      "excerpt_page": 8,
+      "source_pdf_page": 15,
+      "visible_content": "unchanged complete source page"
+    }
+  ],
+  "source_text_verified_equal": true,
+  "embedded_files": 0,
+  "form_tree_present": false,
+  "scope_note": "The full complaint contains personal information in its exhibits and is retained separately. Page 1 retains the original caption and county-level party-residence statements. No home addresses, personal contacts, signatures, compensation figures, receipts or return-upload links are included in the selected pages.",
+  "visual_review": {
+    "all_excerpt_pages_rendered": true,
+    "all_excerpt_pages_visually_inspected": true,
+    "result": "Cover and all complete source pages readable, no introduced clipping or overlap. Court filing stamp and original page numbers preserved."
+  },
+  "compiled_date": "2026-10-23",
+  "full_source_retained_separately": "complaint_2025-11-03_original.pdf"
+}

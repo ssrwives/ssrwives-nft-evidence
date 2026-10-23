@@ -1,0 +1,33 @@
+{
+ "retrieved_utc": "2026-10-18T05:35:22Z",
+ "retrieved_pt": "2026-10-17 22:35 PDT",
+ "primary": {
+  "name": "Coinbase Exchange public market data (daily candles)",
+  "docs": "https://docs.cdp.coinbase.com/exchange/reference/exchangerestapi_getproductcandles",
+  "endpoint": "https://api.exchange.coinbase.com/products/ETH-USD/candles?granularity=86400&start=2023-03-19T00:00:00Z&end=2023-07-25T00:00:00Z",
+  "file": "coinbase_ETH-USD_daily_2023-03-19_2023-07-25.json",
+  "headers_file": "coinbase_headers.txt",
+  "format": "[time (UTC day start, unix), low, high, open, close, volume]; close used = close of that UTC day"
+ },
+ "cross_check": {
+  "name": "Bitstamp public OHLC (daily)",
+  "docs": "https://www.bitstamp.net/api/#tag/Market-info/operation/GetOHLCData",
+  "endpoint": "https://www.bitstamp.net/api/v2/ohlc/ethusd/?step=86400&limit=130&start=1679184000",
+  "file": "bitstamp_ethusd_daily_from_2023-03-19.json",
+  "headers_file": "bitstamp_headers.txt"
+ },
+ "not_used": {
+  "CoinGecko /coins/ethereum/history": "refused: free tier limited to past 365 days (error_code 10012)",
+  "CryptoCompare histoday": "refused: HTTP 401, API key required"
+ },
+ "files": [
+  {
+   "file": "bitstamp_ethusd_daily_from_2023-03-19.json",
+   "sha256": "443a95a6bef36d70a1007afd0d06d348943bbac12b9580e13b8eb6e96d7ae1dd"
+  },
+  {
+   "file": "coinbase_ETH-USD_daily_2023-03-19_2023-07-25.json",
+   "sha256": "c670dc9ff0466ee5823fbb0c7081ef6adc9a94b46d998bdd3065ea28a058f1d5"
+  }
+ ]
+}

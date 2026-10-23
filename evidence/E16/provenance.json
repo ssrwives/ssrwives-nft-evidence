@@ -1,0 +1,110 @@
+{
+  "exhibit": "E16",
+  "source_path": "bca1b933-da66-4a2f-bcf2-60e734e32cee.pdf",
+  "full_original_filename": "preliminary_injunction_2026-05-29.pdf",
+  "full_original_pages": 19,
+  "source_sha256": "877b753740fa4d90a9c89bc19b321f3ebe1b8fc515bfb0415ab98da50675a3fe",
+  "copied_original_sha256": "877b753740fa4d90a9c89bc19b321f3ebe1b8fc515bfb0415ab98da50675a3fe",
+  "excerpt_filename": "injunction_key_pages.pdf",
+  "excerpt_pages": 8,
+  "excerpt_sha256": "561f40ae24c470643866c35dde33e35a9f37986bb2f1fb7846f6b3850a7ddfa6",
+  "original_source_pages": [
+    4,
+    8,
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "page_map": [
+    {
+      "excerpt_page": 2,
+      "original_page": 4,
+      "topic": "Ownership and XYZ performance",
+      "locator": "Finding 10"
+    },
+    {
+      "excerpt_page": 3,
+      "original_page": 8,
+      "topic": "Source-code retention and subsequent conduct",
+      "locator": "Findings 31-35"
+    },
+    {
+      "excerpt_page": 4,
+      "original_page": 15,
+      "topic": "Valid contracts and material breaches",
+      "locator": "Findings 55-57"
+    },
+    {
+      "excerpt_page": 5,
+      "original_page": 16,
+      "topic": "Misappropriation, harm and likely success",
+      "locator": "Findings 57-60"
+    },
+    {
+      "excerpt_page": 6,
+      "original_page": 17,
+      "topic": "Injunction granted; prohibited conduct",
+      "locator": "Operative paragraphs 1-2"
+    },
+    {
+      "excerpt_page": 7,
+      "original_page": 18,
+      "topic": "Return, preservation, imaging and bond",
+      "locator": "Operative paragraphs 2-8"
+    },
+    {
+      "excerpt_page": 8,
+      "original_page": 19,
+      "topic": "Judge and electronic signature date",
+      "locator": "May 29, 2026"
+    }
+  ],
+  "handling": "Original copied byte-for-byte; excerpt contains a document guide and complete selected pages without redaction or rewriting. Original page numbering retained. Selected page text verified identical to source.",
+  "case_number": "25-006213-CI-19",
+  "order_filed_date": "2026-05-29",
+  "compiled_date": "2026-10-23",
+  "render_verification": {
+    "scale_to_pixels": 1400,
+    "all_selected_pages_pixel_identical_to_source": true,
+    "checks": [
+      {
+        "original_page": 4,
+        "excerpt_page": 2,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 8,
+        "excerpt_page": 3,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 15,
+        "excerpt_page": 4,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 16,
+        "excerpt_page": 5,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 17,
+        "excerpt_page": 6,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 18,
+        "excerpt_page": 7,
+        "pixels_identical": true
+      },
+      {
+        "original_page": 19,
+        "excerpt_page": 8,
+        "pixels_identical": true
+      }
+    ],
+    "cover_and_all_pages_visually_inspected": true
+  }
+}

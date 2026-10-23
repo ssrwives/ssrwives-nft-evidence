@@ -1,0 +1,42 @@
+{
+  "x_numeric_id": "1272997779942502400",
+  "finding": "Preserved historical bbykyoko and later hope_indecay records share the numeric user ID. Substack metadata links the kyoko byline to bbykyoko.",
+  "source_fingerprints": [
+    {
+      "exhibit": "E12",
+      "file": "evidence/E12/bbykyoko_2020_status.html",
+      "archive_member": "casefile/evidence/ledger/raw/wayback/bbykyoko_2020_status.html",
+      "bytes": 325680,
+      "sha256": "76cc125739cdb7db767f50cc481b4eceb5e469013cc44502fd8209cfa0b55f1c",
+      "seal_match": true
+    },
+    {
+      "exhibit": "E12",
+      "file": "evidence/E12/hope_indecay_profile.json",
+      "archive_member": "casefile/evidence/ledger/preservation/raw/x/hope_indecay_profile.json",
+      "bytes": 1381,
+      "sha256": "804286153191cadd05309bcbda83fb3051707c61de36743da64df0554a348285",
+      "seal_match": true
+    },
+    {
+      "exhibit": "E12",
+      "file": "evidence/E12/bbykyoko_20240316235658_webfetch.txt",
+      "archive_member": "casefile/evidence/ledger/preservation/wayback/bbykyoko_20240316235658_webfetch.txt",
+      "bytes": 349,
+      "sha256": "5b4a11bb1b7b210b308732f2f8e2837aba0cf7ff00b2b0e6c40d0847c96e2160",
+      "seal_match": true
+    }
+  ],
+  "contract_role": "Sarah Balda signs for Studio Hen as Creative Director on APA p14 and as Member on IP Assignment p3. Contact and signature pages are omitted from public excerpts.",
+  "court_roles": {
+    "source": "E16, order pp. 2–3",
+    "Sarah Balda": "Hen Studios creative director and later XYZ employee",
+    "David Cortes": "SSR Wives developer and later XYZ employee"
+  },
+  "entity_name_record": "APA identifies seller as Studio Hen, LLC. Complaint names Hen Studios, LLC and alleges the APA seller name was incorrect (E15 p7 paragraph31; p10 paragraph55).",
+  "name_variation": "Court filings use Cortes; the APA uses Cortez.",
+  "people_and_handles": {
+    "David Cortes": "HedProtag / Protag / @HedProtag",
+    "Sarah Balda": "Kyoko / former @bbykyoko / @hope_indecay"
+  }
+}

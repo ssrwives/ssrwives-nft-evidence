@@ -1,0 +1,1609 @@
+{
+ "data": [
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1748943983361835139",
+   "created_at": "2024-01-21T06:11:46.000Z",
+   "edit_history_tweet_ids": [
+    "1748951499281924540"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 8,
+      "id": "1564462296",
+      "start": 0,
+      "username": "rytuwil"
+     }
+    ]
+   },
+   "id": "1748951499281924540",
+   "in_reply_to_user_id": "1564462296",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 148,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1748943983361835139",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@rytuwil i will send you a cool writeup of my thoughts cuz I played trough the whole demo on both difficulties and was blown away by the vibes and ingenuity. Really want to help as much as possible for you to realize this kino gamer vision....  stay strong 💪",
+   "url": "https://x.com/HedProtag/status/1748951499281924540"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1736409184835453289",
+   "created_at": "2023-12-17T15:33:05.000Z",
+   "edit_history_tweet_ids": [
+    "1736409184835453289"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 13,
+      "id": "1719847219",
+      "start": 3,
+      "username": "HedProtag"
+     }
+    ]
+   },
+   "id": "1736409184835453289",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5
+   },
+   "referenced_tweets": [
+    {
+     "id": "1735060973017248038",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @HedProtag: Promo mock-retro cover illustrations for the \nDEMO Disc portion of the game! 💿\n\nGame Features:\n-Classic Survival Horror Mech…",
+   "url": "https://x.com/HedProtag/status/1736409184835453289"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "7_1734821693154074624"
+    ],
+    "media_source_tweet_id": [
+     "1734966409820590451"
+    ]
+   },
+   "author_id": "1719847219",
+   "conversation_id": "1735061083155472510",
+   "created_at": "2023-12-13T22:16:12.000Z",
+   "edit_history_tweet_ids": [
+    "1735061083155472510"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 12,
+      "id": "1624832538588901385",
+      "start": 3,
+      "username": "ssrwives"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/N9sICa7OOd",
+      "end": 124,
+      "expanded_url": "https://x.com/ssrwives/status/1734966409820590451/video/1",
+      "media_key": "7_1734821693154074624",
+      "start": 101,
+      "url": "https://t.co/N9sICa7OOd"
+     }
+    ]
+   },
+   "id": "1735061083155472510",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 105
+   },
+   "referenced_tweets": [
+    {
+     "id": "1734966409820590451",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ssrwives: \"DEMO LAUNCH Early 2024\" \nSSR Wives: The Murder Of My Winter Crush\nOfficial trailer #1 https://t.co/N9sICa7OOd",
+   "url": "https://x.com/HedProtag/status/1735061083155472510"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_1735055883392909312",
+     "3_1735055948144644096"
+    ]
+   },
+   "author_id": "1719847219",
+   "conversation_id": "1735060971301863465",
+   "created_at": "2023-12-13T22:15:46.000Z",
+   "edit_history_tweet_ids": [
+    "1735060973017248038"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "pic.x.com/MieKCZx4fV",
+      "end": 304,
+      "expanded_url": "https://x.com/HedProtag/status/1735060973017248038/photo/1",
+      "media_key": "3_1735055883392909312",
+      "start": 281,
+      "url": "https://t.co/MieKCZx4fV"
+     },
+     {
+      "display_url": "pic.x.com/MieKCZx4fV",
+      "end": 304,
+      "expanded_url": "https://x.com/HedProtag/status/1735060973017248038/photo/1",
+      "media_key": "3_1735055948144644096",
+      "start": 281,
+      "url": "https://t.co/MieKCZx4fV"
+     }
+    ]
+   },
+   "id": "1735060973017248038",
+   "in_reply_to_user_id": "1719847219",
+   "public_metrics": {
+    "bookmark_count": 15,
+    "impression_count": 4033,
+    "like_count": 97,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 5
+   },
+   "referenced_tweets": [
+    {
+     "id": "1735060971301863465",
+     "type": "replied_to"
+    }
+   ],
+   "text": "Promo mock-retro cover illustrations for the \nDEMO Disc portion of the game! 💿\n\nGame Features:\n-Classic Survival Horror Mechanics\n-Fixed Cameras\n-RE4 inspired Inventory Management\n-Challenging Puzzles\n-Terrifying &amp; Varied Enemy encounters.\n-Romantic Interpersonal VN Intrigue. https://t.co/MieKCZx4fV",
+   "url": "https://x.com/HedProtag/status/1735060973017248038"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1730416278769193377",
+   "created_at": "2023-12-01T02:39:25.000Z",
+   "edit_history_tweet_ids": [
+    "1730416278769193377"
+   ],
+   "id": "1730416278769193377",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 2582,
+    "like_count": 66,
+    "quote_count": 0,
+    "reply_count": 11,
+    "retweet_count": 0
+   },
+   "text": "Will be away this entire month to fully commit to game development. If u need to dm try my discord 🤙",
+   "url": "https://x.com/HedProtag/status/1730416278769193377"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1721918171345547373",
+   "created_at": "2023-11-07T22:12:17.000Z",
+   "edit_history_tweet_ids": [
+    "1722014131564302353"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 11,
+      "id": "1137660784509632522",
+      "start": 0,
+      "username": "DreddSnail"
+     }
+    ]
+   },
+   "id": "1722014131564302353",
+   "in_reply_to_user_id": "1137660784509632522",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 143,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1721918171345547373",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@DreddSnail Og silent hill is actually very elegant with its depiction of heavy themes. \n\nModern silent hill westoid adaptoids think everything has to be ultra brutal Saw torture aesthetic.",
+   "url": "https://x.com/HedProtag/status/1722014131564302353"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1721303137603162288",
+   "created_at": "2023-11-06T00:48:51.000Z",
+   "edit_history_tweet_ids": [
+    "1721328760664830371"
+   ],
+   "id": "1721328760664830371",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 28,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "@kimoisuki Ok i dont understand what you said but the OG yomiko pfp comeback is so epic.",
+   "url": "https://x.com/HedProtag/status/1721328760664830371"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1717870079000375381",
+   "created_at": "2023-10-27T13:50:46.000Z",
+   "edit_history_tweet_ids": [
+    "1717901657462170079"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 24,
+      "id": "984272129897238528",
+      "start": 14,
+      "username": "YariLogos"
+     }
+    ]
+   },
+   "id": "1717901657462170079",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 44,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "@liquid_yuuhi @YariLogos Did you ever read og higurashi?",
+   "url": "https://x.com/HedProtag/status/1717901657462170079"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1716211162151325909",
+   "created_at": "2023-10-23T11:59:42.000Z",
+   "edit_history_tweet_ids": [
+    "1716424153262178676"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 9,
+      "id": "1429466307796340747",
+      "start": 0,
+      "username": "prgrssnx"
+     }
+    ]
+   },
+   "id": "1716424153262178676",
+   "in_reply_to_user_id": "1429466307796340747",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 406,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1716211162151325909",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@prgrssnx Yeah if you mint this crap you're just fueling someone's raging drug addiction.",
+   "url": "https://x.com/HedProtag/status/1716424153262178676"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1713012275928305971",
+   "created_at": "2023-10-14T02:02:07.000Z",
+   "edit_history_tweet_ids": [
+    "1713012275928305971"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 12,
+      "id": "1624832538588901385",
+      "start": 3,
+      "username": "ssrwives"
+     }
+    ]
+   },
+   "id": "1713012275928305971",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 1
+   },
+   "referenced_tweets": [
+    {
+     "id": "1713011462434664913",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @ssrwives: kyoko here just stopping by to say thx for sticking by us ❤️ we’ve been so busy heads down putting together the demo for Janu…",
+   "url": "https://x.com/HedProtag/status/1713012275928305971"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1710861532467212498",
+   "created_at": "2023-10-08T04:00:22.000Z",
+   "edit_history_tweet_ids": [
+    "1710867706537242820"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "1258000994237063168",
+      "start": 0,
+      "username": "asscrusader420"
+     },
+     {
+      "end": 25,
+      "id": "1624832538588901385",
+      "start": 16,
+      "username": "ssrwives"
+     }
+    ]
+   },
+   "id": "1710867706537242820",
+   "in_reply_to_user_id": "1258000994237063168",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 44,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1710866465643979190",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@asscrusader420 @ssrwives Yeah sadly making a video game takes a LONG TIME. But we still have a demo planned for January so you're gonna love that God willing.",
+   "url": "https://x.com/HedProtag/status/1710867706537242820"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1696414012727046179",
+   "created_at": "2023-08-29T11:35:34.000Z",
+   "edit_history_tweet_ids": [
+    "1696486748748959955"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "1025614261580648448",
+      "start": 0,
+      "username": "HEARTISBLAZING"
+     }
+    ]
+   },
+   "id": "1696486748748959955",
+   "in_reply_to_user_id": "1025614261580648448",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 346,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1696414012727046179",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@HEARTISBLAZING nope base vanilla game has no NFT integration. The nfts where used as a form of crowdfunding.\n\nI wouldn't mind answering any questions btw",
+   "url": "https://x.com/HedProtag/status/1696486748748959955"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1696345083660980269",
+   "created_at": "2023-08-29T02:30:18.000Z",
+   "edit_history_tweet_ids": [
+    "1696349527140172240"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 22,
+      "id": "1624832538588901385",
+      "start": 13,
+      "username": "ssrwives"
+     }
+    ]
+   },
+   "id": "1696349527140172240",
+   "in_reply_to_user_id": "1605153352509169664",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 98,
+    "like_count": 3,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1696346743414366556",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@TheMIDWave_ @ssrwives Reminder if you hold an ssrwife you not only get the game completely for free at launch. But you also get the first demo we plan to roll out near the very end of the year.",
+   "url": "https://x.com/HedProtag/status/1696349527140172240"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1691654394570280996",
+   "created_at": "2023-08-16T12:57:24.000Z",
+   "edit_history_tweet_ids": [
+    "1691796299811602821"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "64921376",
+      "start": 0,
+      "username": "DiamondEyesFox"
+     }
+    ]
+   },
+   "id": "1691796299811602821",
+   "in_reply_to_user_id": "64921376",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 182,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1691654394570280996",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@DiamondEyesFox I **** love scatter. If it ain't scatter I ain't minting any derivs. I just can't trust any other sites quite frankly.",
+   "url": "https://x.com/HedProtag/status/1691796299811602821"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1690903974340157440",
+   "created_at": "2023-08-14T01:56:18.000Z",
+   "edit_history_tweet_ids": [
+    "1690905150599131137"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "64921376",
+      "start": 0,
+      "username": "DiamondEyesFox"
+     },
+     {
+      "end": 38,
+      "id": "799326661372248065",
+      "start": 30,
+      "username": "exillvs"
+     },
+     {
+      "end": 53,
+      "id": "1648653334700519424",
+      "start": 39,
+      "username": "itznottripleb"
+     }
+    ]
+   },
+   "id": "1690905150599131137",
+   "in_reply_to_user_id": "64921376",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 30,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1690904133463617536",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@DiamondEyesFox @0xMadeleinee @exillvs @itznottripleb @brutalistmeadow @0x0b111 Chocolate chip MINT",
+   "url": "https://x.com/HedProtag/status/1690905150599131137"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1672386551513317376",
+   "created_at": "2023-06-24T03:31:58.000Z",
+   "edit_history_tweet_ids": [
+    "1672447448311054338"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 8,
+      "id": "901580551210942465",
+      "start": 0,
+      "username": "zoolpal"
+     }
+    ]
+   },
+   "id": "1672447448311054338",
+   "in_reply_to_user_id": "901580551210942465",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 267,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1672420079693168641",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@zoolpal Great integration. God is very patient with us 🙏 there's always a time and a place.",
+   "url": "https://x.com/HedProtag/status/1672447448311054338"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1670583393090936832",
+   "created_at": "2023-06-19T13:15:35.000Z",
+   "edit_history_tweet_ids": [
+    "1670782377344356356"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "1156596014045962240",
+      "start": 0,
+      "username": "HaloHeroGlitch"
+     },
+     {
+      "end": 31,
+      "id": "883628653447266304",
+      "start": 16,
+      "username": "_bonaventurian"
+     }
+    ]
+   },
+   "id": "1670782377344356356",
+   "in_reply_to_user_id": "1156596014045962240",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 131,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1670781756025327619",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@HaloHeroGlitch @_bonaventurian The \"anime\" is not the same as the VN... also you probably watched GOU and sotsu which are completely detached from the original structure and framework of OG higurashi. \n\nHanyuu is most obviously a sacrificial christ-figure. And the bible quoting isn't arbitrary.",
+   "url": "https://x.com/HedProtag/status/1670782377344356356"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1665919728374763527",
+   "created_at": "2023-06-06T04:13:55.000Z",
+   "edit_history_tweet_ids": [
+    "1665935022715445249"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 12,
+      "id": "1385314414178439168",
+      "start": 0,
+      "username": "two_debtors"
+     }
+    ]
+   },
+   "id": "1665935022715445249",
+   "in_reply_to_user_id": "1385314414178439168",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 71,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1665924740350107648",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@two_debtors Subjugate as in INTEGRATE. Destruction as in REFORMATION.",
+   "url": "https://x.com/HedProtag/status/1665935022715445249"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1661186474744619010",
+   "created_at": "2023-05-24T01:44:53.000Z",
+   "edit_history_tweet_ids": [
+    "1661186474744619010"
+   ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "x.com/0xGanon/status…",
+      "end": 218,
+      "expanded_url": "https://twitter.com/0xGanon/status/1661173763713409024",
+      "start": 195,
+      "url": "https://t.co/9YHuINBeTl"
+     }
+    ]
+   },
+   "id": "1661186474744619010",
+   "public_metrics": {
+    "bookmark_count": 1,
+    "impression_count": 2296,
+    "like_count": 34,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "referenced_tweets": [
+    {
+     "id": "1661173763713409024",
+     "type": "quoted"
+    }
+   ],
+   "text": "Cute girl avis represent the successful integration of the anima into the persona. Monkeys on the other hand represent a mutated chimera a failed genetic dead end. A regression of the intellect. https://t.co/9YHuINBeTl",
+   "url": "https://x.com/HedProtag/status/1661186474744619010"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1659586669018767361",
+   "created_at": "2023-05-19T15:57:27.000Z",
+   "edit_history_tweet_ids": [
+    "1659589091317497859"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 10,
+      "id": "1574972893406052352",
+      "start": 0,
+      "username": "piff_jack"
+     }
+    ]
+   },
+   "id": "1659589091317497859",
+   "in_reply_to_user_id": "1574972893406052352",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 294,
+    "like_count": 5,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1659586669018767361",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@piff_jack Proper integration of the anima... so true.",
+   "url": "https://x.com/HedProtag/status/1659589091317497859"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1658454469540020224",
+   "created_at": "2023-05-16T13:35:23.000Z",
+   "edit_history_tweet_ids": [
+    "1658466172696707072"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 13,
+      "id": "1950239279898120192",
+      "start": 0,
+      "username": "Konigsarthen"
+     }
+    ]
+   },
+   "id": "1658466172696707072",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 54,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "@Konigsarthen @TheTastyNachos OK here's a good way for an umi friend to understand....\n\nGo watch the studio deen umineko adaptation thats trash.\n\nNow imagine how you would have felt if you had watched that adaptation before even knowing anything of the og umineko vn...\n\nGo back and apply this to higu...",
+   "url": "https://x.com/HedProtag/status/1658466172696707072"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1658345521927397378",
+   "created_at": "2023-05-16T12:52:16.000Z",
+   "edit_history_tweet_ids": [
+    "1658455325979078656"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 14,
+      "id": "1462947496158707712",
+      "start": 0,
+      "username": "nazbowling102"
+     }
+    ]
+   },
+   "id": "1658455325979078656",
+   "in_reply_to_user_id": "1462947496158707712",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 251,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 2,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "1658345521927397378",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@nazbowling102 The BETA from muv-luv, Flood from Halo... and of course Erika Furude. They are all the same haha",
+   "url": "https://x.com/HedProtag/status/1658455325979078656"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "3_1656840922687057921",
+     "3_1656840922661888000"
+    ],
+    "media_source_tweet_id": [
+     "1656840939493638145",
+     "1656840939493638145"
+    ]
+   },
+   "author_id": "1719847219",
+   "conversation_id": "1656841518034845696",
+   "created_at": "2023-05-12T01:59:35.000Z",
+   "edit_history_tweet_ids": [
+    "1656841518034845696"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 33,
+      "id": "1450678273726300161",
+      "start": 24,
+      "username": "bbykyoko"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/5mPx5z9AXt",
+      "end": 70,
+      "expanded_url": "https://x.com/BigMilady/status/1656840939493638145/photo/1",
+      "media_key": "3_1656840922687057921",
+      "start": 47,
+      "url": "https://t.co/5mPx5z9AXt"
+     },
+     {
+      "display_url": "pic.x.com/5mPx5z9AXt",
+      "end": 70,
+      "expanded_url": "https://x.com/BigMilady/status/1656840939493638145/photo/1",
+      "media_key": "3_1656840922661888000",
+      "start": 47,
+      "url": "https://t.co/5mPx5z9AXt"
+     }
+    ]
+   },
+   "id": "1656841518034845696",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3
+   },
+   "referenced_tweets": [
+    {
+     "id": "1656840939493638145",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @BigMilady: congrats @bbykyoko on mint out! https://t.co/5mPx5z9AXt",
+   "url": "https://x.com/HedProtag/status/1656841518034845696"
+  },
+  {
+   "author_id": "1719847219",
+   "conversation_id": "1656834654073237504",
+   "created_at": "2023-05-12T01:32:18.000Z",
+   "edit_history_tweet_ids": [
+    "1656834654073237504"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 13,
+      "id": "2472954290",
+      "start": 3,
+      "username": "0xXochitl"
+     },
+     {
+      "end": 45,
+      "id": "1624832538588901385",
+      "start": 36,
+      "username": "ssrwives"
+     }
+    ]
+   },
+   "id": "1656834654073237504",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4
+   },
+   "referenced_tweets": [
+    {
+     "id": "1656826635914739713",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @0xXochitl: CONGRATS ON MINT OUT @ssrwives",
+   "url": "https://x.com/HedProtag/status/1656834654073237504"
+  }
+ ],
+ "errors": [
+  {
+   "detail": "Could not find tweet with referenced_tweets.id: [1735060971301863465].",
+   "parameter": "referenced_tweets.id",
+   "resource_id": "1735060971301863465",
+   "resource_type": "tweet",
+   "title": "Not Found Error",
+   "type": "https://api.x.com/2/problems/resource-not-found",
+   "value": "1735060971301863465"
+  },
+  {
+   "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1696414012727046179].",
+   "parameter": "referenced_tweets.id",
+   "resource_id": "1696414012727046179",
+   "resource_type": "tweet",
+   "section": "includes",
+   "title": "Authorization Error",
+   "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+   "value": "1696414012727046179"
+  },
+  {
+   "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1672420079693168641].",
+   "parameter": "referenced_tweets.id",
+   "resource_id": "1672420079693168641",
+   "resource_type": "tweet",
+   "section": "includes",
+   "title": "Authorization Error",
+   "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+   "value": "1672420079693168641"
+  },
+  {
+   "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1670781756025327619].",
+   "parameter": "referenced_tweets.id",
+   "resource_id": "1670781756025327619",
+   "resource_type": "tweet",
+   "section": "includes",
+   "title": "Authorization Error",
+   "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+   "value": "1670781756025327619"
+  }
+ ],
+ "includes": {
+  "media": [
+   {
+    "media_key": "7_1734821693154074624",
+    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1734821693154074624/pu/img/SeuZ_CNfedlQcIpO.jpg",
+    "type": "video"
+   },
+   {
+    "media_key": "3_1735055883392909312",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/GBQoIhsWAAAlN45.jpg"
+   },
+   {
+    "media_key": "3_1735055948144644096",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/GBQoMS6XEAA4Vmj.jpg"
+   },
+   {
+    "media_key": "3_1656840922687057921",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/Fv5ICnYXsAEZ6ru.jpg"
+   },
+   {
+    "media_key": "3_1656840922661888000",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/Fv5ICnSXoAA1uhx.jpg"
+   }
+  ],
+  "tweets": [
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1748943950608465920"
+     ]
+    },
+    "author_id": "1564462296",
+    "conversation_id": "1748943983361835139",
+    "created_at": "2024-01-21T05:41:54.000Z",
+    "edit_history_tweet_ids": [
+     "1748943983361835139"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/7yrOfqEEw6",
+       "end": 291,
+       "expanded_url": "https://x.com/rytuwil/status/1748943983361835139/photo/1",
+       "media_key": "3_1748943950608465920",
+       "start": 268,
+       "url": "https://t.co/7yrOfqEEw6"
+      }
+     ]
+    },
+    "id": "1748943983361835139",
+    "public_metrics": {
+     "bookmark_count": 7,
+     "impression_count": 3038,
+     "like_count": 73,
+     "quote_count": 0,
+     "reply_count": 7,
+     "retweet_count": 5
+    },
+    "text": "there's too much i want to make, too much i have to \"polish\" still, cutscenes still need to be drawn, i want to make a quality project but my body doesnt want to move, everyone's so much more skilled and talented than i am with this. i hope cool ppl end up finding it https://t.co/7yrOfqEEw6"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1735055883392909312",
+      "3_1735055948144644096"
+     ]
+    },
+    "author_id": "1719847219",
+    "conversation_id": "1735060971301863465",
+    "created_at": "2023-12-13T22:15:46.000Z",
+    "edit_history_tweet_ids": [
+     "1735060973017248038"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/MieKCZx4fV",
+       "end": 304,
+       "expanded_url": "https://x.com/HedProtag/status/1735060973017248038/photo/1",
+       "media_key": "3_1735055883392909312",
+       "start": 281,
+       "url": "https://t.co/MieKCZx4fV"
+      },
+      {
+       "display_url": "pic.x.com/MieKCZx4fV",
+       "end": 304,
+       "expanded_url": "https://x.com/HedProtag/status/1735060973017248038/photo/1",
+       "media_key": "3_1735055948144644096",
+       "start": 281,
+       "url": "https://t.co/MieKCZx4fV"
+      }
+     ]
+    },
+    "id": "1735060973017248038",
+    "in_reply_to_user_id": "1719847219",
+    "public_metrics": {
+     "bookmark_count": 15,
+     "impression_count": 4033,
+     "like_count": 97,
+     "quote_count": 0,
+     "reply_count": 2,
+     "retweet_count": 5
+    },
+    "referenced_tweets": [
+     {
+      "id": "1735060971301863465",
+      "type": "replied_to"
+     }
+    ],
+    "text": "Promo mock-retro cover illustrations for the \nDEMO Disc portion of the game! 💿\n\nGame Features:\n-Classic Survival Horror Mechanics\n-Fixed Cameras\n-RE4 inspired Inventory Management\n-Challenging Puzzles\n-Terrifying &amp; Varied Enemy encounters.\n-Romantic Interpersonal VN Intrigue. https://t.co/MieKCZx4fV"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "7_1734821693154074624"
+     ]
+    },
+    "author_id": "1624832538588901385",
+    "conversation_id": "1734966409820590451",
+    "created_at": "2023-12-13T16:00:00.000Z",
+    "edit_history_tweet_ids": [
+     "1734966409820590451"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/N9sICa7OOd",
+       "end": 110,
+       "expanded_url": "https://x.com/ssrwives/status/1734966409820590451/video/1",
+       "media_key": "7_1734821693154074624",
+       "start": 87,
+       "url": "https://t.co/N9sICa7OOd"
+      }
+     ]
+    },
+    "id": "1734966409820590451",
+    "public_metrics": {
+     "bookmark_count": 121,
+     "impression_count": 129303,
+     "like_count": 432,
+     "quote_count": 23,
+     "reply_count": 14,
+     "retweet_count": 105
+    },
+    "text": "\"DEMO LAUNCH Early 2024\" \nSSR Wives: The Murder Of My Winter Crush\nOfficial trailer #1 https://t.co/N9sICa7OOd"
+   },
+   {
+    "author_id": "1137660784509632522",
+    "conversation_id": "1721918171345547373",
+    "created_at": "2023-11-07T15:50:58.000Z",
+    "edit_history_tweet_ids": [
+     "1721918171345547373"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/IGN/status/172…",
+       "end": 266,
+       "expanded_url": "https://twitter.com/IGN/status/1721513033803911375",
+       "start": 243,
+       "url": "https://t.co/c9cnX4pB5w"
+      }
+     ]
+    },
+    "id": "1721918171345547373",
+    "public_metrics": {
+     "bookmark_count": 1,
+     "impression_count": 1607,
+     "like_count": 27,
+     "quote_count": 0,
+     "reply_count": 4,
+     "retweet_count": 4
+    },
+    "referenced_tweets": [
+     {
+      "id": "1721513033803911375",
+      "type": "quoted"
+     }
+    ],
+    "text": "The origin story in SH2:\nJames saw a painting of an executioner in the city's museum that left an impression on him.\nThe origin story of the remake:\nHorniness personified of James, billions of children sacrificed by the cult to make him real. https://t.co/c9cnX4pB5w"
+   },
+   {
+    "author_id": "1429466307796340747",
+    "conversation_id": "1716211162151325909",
+    "created_at": "2023-10-22T21:53:21.000Z",
+    "edit_history_tweet_ids": [
+     "1716211162151325909"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/bunnygirl_cap/…",
+       "end": 301,
+       "expanded_url": "https://twitter.com/bunnygirl_cap/status/1715423457880539204",
+       "start": 278,
+       "url": "https://t.co/4kR7AuEDUz"
+      }
+     ]
+    },
+    "id": "1716211162151325909",
+    "public_metrics": {
+     "bookmark_count": 7,
+     "impression_count": 91958,
+     "like_count": 113,
+     "quote_count": 2,
+     "reply_count": 22,
+     "retweet_count": 6
+    },
+    "referenced_tweets": [
+     {
+      "id": "1715423457880539204",
+      "type": "quoted"
+     }
+    ],
+    "text": "the next grift is dropping tomorrow\n\n1. that preview looks like straight fiverr ass cheeks\n\n2. whoever wrote the copy should be drug out and shot for that pathetic attempt at pseudo-intellectualism\n\n3. couldn’t even google image search actual bunnygirls 😹\n\nPSA: save your money https://t.co/4kR7AuEDUz"
+   },
+   {
+    "author_id": "1624832538588901385",
+    "conversation_id": "1713011462434664913",
+    "created_at": "2023-10-14T01:58:53.000Z",
+    "edit_history_tweet_ids": [
+     "1713011462434664913"
+    ],
+    "id": "1713011462434664913",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 2536,
+     "like_count": 28,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 1
+    },
+    "text": "kyoko here just stopping by to say thx for sticking by us ❤️ we’ve been so busy heads down putting together the demo for January forget sometimes to come up for air &amp; say hi \n\nsome fun news to come soon so keep an eye out 🧸🧺🍂"
+   },
+   {
+    "author_id": "1258000994237063168",
+    "conversation_id": "1710861532467212498",
+    "created_at": "2023-10-08T03:55:26.000Z",
+    "edit_history_tweet_ids": [
+     "1710866465643979190"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 10,
+       "id": "1719847219",
+       "start": 0,
+       "username": "HedProtag"
+      },
+      {
+       "end": 85,
+       "id": "1624832538588901385",
+       "start": 76,
+       "username": "ssrwives"
+      }
+     ]
+    },
+    "id": "1710866465643979190",
+    "in_reply_to_user_id": "1719847219",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 54,
+     "like_count": 1,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "1710865771549618445",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@HedProtag Ofc it does, but im yet to witness anything that actually works. @ssrwives bettur be good 😁😁"
+   },
+   {
+    "author_id": "1605153352509169664",
+    "conversation_id": "1696345083660980269",
+    "created_at": "2023-08-29T02:19:14.000Z",
+    "edit_history_tweet_ids": [
+     "1696346743414366556"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 10,
+       "id": "1719847219",
+       "start": 0,
+       "username": "HedProtag"
+      },
+      {
+       "end": 20,
+       "id": "1624832538588901385",
+       "start": 11,
+       "username": "ssrwives"
+      }
+     ]
+    },
+    "id": "1696346743414366556",
+    "in_reply_to_user_id": "1719847219",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 87,
+     "like_count": 2,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "1696346460353077614",
+      "type": "replied_to"
+     }
+    ],
+    "text": "@HedProtag @ssrwives my spirit is willing but my fragile psyche will never be ready"
+   },
+   {
+    "author_id": "64921376",
+    "conversation_id": "1691654394570280996",
+    "created_at": "2023-08-16T03:33:31.000Z",
+    "edit_history_tweet_ids": [
+     "1691654394570280996"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "x.com/kaiotei_/statu…",
+       "end": 177,
+       "expanded_url": "https://twitter.com/kaiotei_/status/1691653574328041676",
+       "start": 154,
+       "url": "https://t.co/baufg5XQCO"
+      }
+     ]
+    },
+    "id": "1691654394570280996",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 979,
+     "like_count": 10,
+     "quote_count": 0,
+     "reply_count": 2,
+     "retweet_count": 0
+    },
+    "referenced_tweets": [
+     {
+      "id": "1691653574328041676",
+      "type": "quoted"
+     }
+    ],
+    "text": "imagine coming after scatter because they platformed stonetoss and expecting anyone to back you up\n\nyou go against everything remilia stands for, cretin. https://t.co/baufg5XQCO"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1690904116065677312"
+     ]
+    },
+    "author_id": "64921376",
+    "conversation_id": "1690903974340157440",
+    "created_at": "2023-08-14T01:52:15.000Z",
+    "edit_history_tweet_ids": [
+     "1690904133463617536"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 38,
+       "id": "799326661372248065",
+       "start": 30,
+       "username": "exillvs"
+      },
+      {
+       "end": 53,
+       "id": "1648653334700519424",
+       "start": 39,
+       "username": "itznottripleb"
+      },
+      {
+       "end": 82,
+       "id": "1719847219",
+       "start": 72,
+       "username": "HedProtag"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/RAAzofrlkp",
+       "end": 116,
+       "expanded_url": "https://x.com/DiamondEyesFox/status/1690904133463617536/photo/1",
+       "media_key": "3_1690904116065677312",
+       "start": 93,
+       "url": "https://t.co/RAAzofrlkp"
+      }
+     ]
+    },
+    "id": "1690904133463617536",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 122,
+     "like_count": 4,
+     "quote_count": 0,
+     "reply_count": 2,
+     "retweet_count": 0
+    },
+    "text": "Taglist: (OPEN)\n@0xMadeleinee\n@exillvs\n@itznottripleb\n@brutalistmeadow \n@HedProtag \n@0x0b111 https://t.co/RAAzofrlkp"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1665924737946746880"
+     ]
+    },
+    "author_id": "1385314414178439168",
+    "conversation_id": "1665919728374763527",
+    "created_at": "2023-06-06T03:33:04.000Z",
+    "edit_history_tweet_ids": [
+     "1665924740350107648"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 10,
+       "id": "1719847219",
+       "start": 0,
+       "username": "HedProtag"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/6k4zeUPsfO",
+       "end": 44,
+       "expanded_url": "https://x.com/two_debtors/status/1665924740350107648/photo/1",
+       "media_key": "3_1665924737946746880",
+       "start": 21,
+       "url": "https://t.co/6k4zeUPsfO"
+      }
+     ]
+    },
+    "id": "1665924740350107648",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 203,
+     "like_count": 4,
+     "quote_count": 0,
+     "reply_count": 1,
+     "retweet_count": 0
+    },
+    "text": "@HedProtag me scare😿 https://t.co/6k4zeUPsfO"
+   },
+   {
+    "author_id": "1525191491609559040",
+    "conversation_id": "1661173763713409024",
+    "created_at": "2023-05-24T00:54:23.000Z",
+    "edit_history_tweet_ids": [
+     "1661173763713409024"
+    ],
+    "id": "1661173763713409024",
+    "public_metrics": {
+     "bookmark_count": 2,
+     "impression_count": 43827,
+     "like_count": 119,
+     "quote_count": 7,
+     "reply_count": 55,
+     "retweet_count": 12
+    },
+    "text": "A dude rocking a little girl pfp is plain weird"
+   },
+   {
+    "author_id": "1574972893406052352",
+    "conversation_id": "1659586669018767361",
+    "created_at": "2023-05-19T15:47:50.000Z",
+    "edit_history_tweet_ids": [
+     "1659586669018767361"
+    ],
+    "id": "1659586669018767361",
+    "public_metrics": {
+     "bookmark_count": 4,
+     "impression_count": 4558,
+     "like_count": 29,
+     "quote_count": 3,
+     "reply_count": 8,
+     "retweet_count": 3
+    },
+    "text": "find it weird and off-putting when people act like the anime gorls in their pfps. As I see it she's supposed to embody the anima, who represents the inverse of one's outward character, whereas if you're acting like her... that would be an identification with the persona."
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1658345508484595715",
+      "3_1658345512527970304",
+      "3_1658345515950522371",
+      "3_1658345518970306560"
+     ]
+    },
+    "author_id": "1462947496158707712",
+    "conversation_id": "1658345521927397378",
+    "created_at": "2023-05-16T05:35:57.000Z",
+    "edit_history_tweet_ids": [
+     "1658345521927397378"
+    ],
+    "entities": {
+     "urls": [
+      {
+       "display_url": "pic.x.com/uLDfZTUOsk",
+       "end": 194,
+       "expanded_url": "https://x.com/nazbowling102/status/1658345521927397378/photo/1",
+       "media_key": "3_1658345508484595715",
+       "start": 171,
+       "url": "https://t.co/uLDfZTUOsk"
+      },
+      {
+       "display_url": "pic.x.com/uLDfZTUOsk",
+       "end": 194,
+       "expanded_url": "https://x.com/nazbowling102/status/1658345521927397378/photo/1",
+       "media_key": "3_1658345512527970304",
+       "start": 171,
+       "url": "https://t.co/uLDfZTUOsk"
+      },
+      {
+       "display_url": "pic.x.com/uLDfZTUOsk",
+       "end": 194,
+       "expanded_url": "https://x.com/nazbowling102/status/1658345521927397378/photo/1",
+       "media_key": "3_1658345515950522371",
+       "start": 171,
+       "url": "https://t.co/uLDfZTUOsk"
+      },
+      {
+       "display_url": "pic.x.com/uLDfZTUOsk",
+       "end": 194,
+       "expanded_url": "https://x.com/nazbowling102/status/1658345521927397378/photo/1",
+       "media_key": "3_1658345518970306560",
+       "start": 171,
+       "url": "https://t.co/uLDfZTUOsk"
+      },
+      {
+       "display_url": "x.com/BluVoltVA/stat…",
+       "end": 218,
+       "expanded_url": "https://twitter.com/BluVoltVA/status/1657842542023520261",
+       "start": 195,
+       "url": "https://t.co/589mnfy94K"
+      }
+     ]
+    },
+    "id": "1658345521927397378",
+    "public_metrics": {
+     "bookmark_count": 6,
+     "impression_count": 4557,
+     "like_count": 55,
+     "quote_count": 1,
+     "reply_count": 6,
+     "retweet_count": 6
+    },
+    "referenced_tweets": [
+     {
+      "id": "1657842542023520261",
+      "type": "quoted"
+     }
+    ],
+    "text": "Malevolent entity obsessed with truth, curiosity is its driving force but it holds no love for the world. Everything is data to be collected and the unknown is the enemy. https://t.co/uLDfZTUOsk https://t.co/589mnfy94K"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_1656840922687057921",
+      "3_1656840922661888000"
+     ]
+    },
+    "author_id": "1531091880410132480",
+    "conversation_id": "1656840939493638145",
+    "created_at": "2023-05-12T01:57:17.000Z",
+    "edit_history_tweet_ids": [
+     "1656840939493638145"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 18,
+       "id": "1450678273726300161",
+       "start": 9,
+       "username": "bbykyoko"
+      }
+     ],
+     "urls": [
+      {
+       "display_url": "pic.x.com/5mPx5z9AXt",
+       "end": 55,
+       "expanded_url": "https://x.com/BigMilady/status/1656840939493638145/photo/1",
+       "media_key": "3_1656840922687057921",
+       "start": 32,
+       "url": "https://t.co/5mPx5z9AXt"
+      },
+      {
+       "display_url": "pic.x.com/5mPx5z9AXt",
+       "end": 55,
+       "expanded_url": "https://x.com/BigMilady/status/1656840939493638145/photo/1",
+       "media_key": "3_1656840922661888000",
+       "start": 32,
+       "url": "https://t.co/5mPx5z9AXt"
+      }
+     ]
+    },
+    "id": "1656840939493638145",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 1744,
+     "like_count": 20,
+     "quote_count": 0,
+     "reply_count": 0,
+     "retweet_count": 3
+    },
+    "text": "congrats @bbykyoko on mint out! https://t.co/5mPx5z9AXt"
+   },
+   {
+    "author_id": "2472954290",
+    "conversation_id": "1656826635914739713",
+    "created_at": "2023-05-12T01:00:27.000Z",
+    "edit_history_tweet_ids": [
+     "1656826635914739713"
+    ],
+    "entities": {
+     "mentions": [
+      {
+       "end": 30,
+       "id": "1624832538588901385",
+       "start": 21,
+       "username": "ssrwives"
+      }
+     ]
+    },
+    "id": "1656826635914739713",
+    "public_metrics": {
+     "bookmark_count": 0,
+     "impression_count": 2139,
+     "like_count": 19,
+     "quote_count": 2,
+     "reply_count": 0,
+     "retweet_count": 4
+    },
+    "text": "CONGRATS ON MINT OUT @ssrwives"
+   }
+  ],
+  "users": [
+   {
+    "id": "1719847219",
+    "name": "protag☘️",
+    "profile_image_url": "https://pbs.twimg.com/profile_images/2110092176436740096/FdapRvTe_normal.jpg",
+    "username": "HedProtag",
+    "verified": false
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "1748951499281924540",
+  "next_token": "b26v89c19zqg8o3fqkg0z9n5e2fqjjkh6qa0l0ykmpvul",
+  "oldest_id": "1656834654073237504",
+  "result_count": 24
+ }
+}

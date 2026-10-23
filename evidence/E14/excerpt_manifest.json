@@ -1,0 +1,27 @@
+{
+  "output": "SSRWives_Sale_Document_Excerpts.pdf",
+  "pages": 6,
+  "sha256": "3bf500b47b18d6d994f2af515aa87d9a0ef1cef21a1bb2edace0ff76e5298ce0",
+  "source_files": [
+    {
+      "filename": "asset_purchase_agreement_2025-02-24.pdf",
+      "source_path": "asset_purchase_agreement_2025-02-24.pdf",
+      "sha256": "e174686b7edc4f21a1425da9b0eb954da282d4c6b9469b263daf1a000ab60b8e",
+      "original_pages": [
+        1,
+        4,
+        5,
+        16
+      ]
+    },
+    {
+      "filename": "ip_assignment_2025-03-18.pdf",
+      "source_path": "ip_assignment_2025-03-18.pdf",
+      "sha256": "4519338213d5a13738ca6981782ac3e3fca830bf9aeac07c7fa5c801246eba64",
+      "original_pages": [
+        2
+      ]
+    }
+  ],
+  "verification": "All 5 selected page text contents exactly match original pages; original page numbers retained; no AcroForm; contact pages and signatures omitted."
+}

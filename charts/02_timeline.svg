@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="900pt" height="1152pt" viewBox="0 0 900 1152" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-23T10:28:09.043081</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 1152 
+L 900 1152 
+L 900 0 
+L 0 0 
+z
+" style="fill: #f8f7f3"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 72 973.44 
+L 72 241.92 
+" clip-path="url(#pc11839cff8)" style="fill: none; stroke: #d8d9d5; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mc60add5a57" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #f8f7f3; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#mc60add5a57" x="72" y="253.44" style="fill: #356fa5; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m37e38cba4b" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #f8f7f3; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#m37e38cba4b" x="72" y="357.12" style="fill: #198374; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#mc60add5a57" x="72" y="460.8" style="fill: #356fa5; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="m44fac81b27" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #f8f7f3; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#m44fac81b27" x="72" y="564.48" style="fill: #b9842e; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#mc60add5a57" x="72" y="668.16" style="fill: #356fa5; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="m4677e977fc" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #f8f7f3; stroke-width: 2"/>
+    </defs>
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#m4677e977fc" x="72" y="771.84" style="fill: #a6473e; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#m4677e977fc" x="72" y="875.52" style="fill: #a6473e; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#pc11839cff8)">
+     <use xlink:href="#m4677e977fc" x="72" y="979.2" style="fill: #a6473e; stroke: #f8f7f3; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="54" y="46.560937" transform="rotate(-0 54 46.560937)">THE HOLDER PROMISE, STEP BY STEP</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 29px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(54 111.751563)">Funded in 2023.</text>
+    <text style="font-weight: 700; font-size: 29px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(54 149.542188)">Separated in 2025.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="54" y="178.75125" transform="rotate(-0 54 178.75125)">The fundraising offer, repeated access targets, the sale, and the later answers.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="54" y="204.789328" transform="rotate(-0 54 204.789328)">Sarah Balda = Kyoko  (@bbykyoko / @hope_indecay)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="54" y="226.782328" transform="rotate(-0 54 226.782328)">David Cortes = Protag / HedProtag  (@HedProtag)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="108" y="252.559844" transform="rotate(-0 108 252.559844)">28 MAR 2023</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="284.429" transform="rotate(-0 108 284.429)">The offer: a reason to own the NFT</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 306.135281)">Kyoko promotes a token-gated arcade, free initial access to both games,</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 322.67282)">wallet-linked features and NFT rewards. [E02]</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="108" y="356.239844" transform="rotate(-0 108 356.239844)">MAR–MAY 2023</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="387.0465" transform="rotate(-0 108 387.0465)">147.16 ETH raised — about $267,000</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 409.815281)">2,880 paid mints plus 330 free/reserve tokens. The full 147.16 ETH</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 425.915281)">is withdrawn from the mint contract by May 12. [E04]</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="108" y="459.919844" transform="rotate(-0 108 459.919844)">29 MAY 2023</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="490.1765" transform="rotate(-0 108 490.1765)">A holder demo targeted for year-end</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 513.495281)">The project estimates roughly six months to a playable demo for holders.</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 529.595281)">Protag reiterates first-demo access that August. [E06–E07]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b9842e" x="108" y="563.599844" transform="rotate(-0 108 563.599844)">29 AUG 2023</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="593.8565" transform="rotate(-0 108 593.8565)">The distancing already begins</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 617.175281)">Hours after promising holder benefits, Protag says the base game has</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 633.275281)">no NFT integration and describes the NFTs as crowdfunding. [E07]</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="108" y="667.279844" transform="rotate(-0 108 667.279844)">25 OCT 2024</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="697.5365" transform="rotate(-0 108 697.5365)">Holder priority is promised again</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 720.855281)">Protag says NFT supporters will get the private alpha first,</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 737.39282)">within the next weeks. [E08]</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="108" y="770.959844" transform="rotate(-0 108 770.959844)">FEB–MAR 2025</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="801.2165" transform="rotate(-0 108 801.2165)">The game is sold; the NFT is retained</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 824.535281)">APA effective Feb 24, signed Mar 7; assignment dated Mar 18.</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 840.635281)">Game assets go to XYZ AI; the NFT and exclusive NFT IP stay with Studio Hen. [E14]</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="108" y="874.639844" transform="rotate(-0 108 874.639844)">7 MAY 2025</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="904.8965" transform="rotate(-0 108 904.8965)">Kyoko: “nothing at this time”</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 928.215281)">Asked what role NFTs play, she says the demo will be free for all.</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 944.315281)">The question and reply are preserved together. [E13]</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="108" y="977.390156" transform="rotate(-0 108 977.390156)">JUN 2025</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="108" y="1008.639" transform="rotate(-0 108 1008.639)">A public demo, then “no NFTs Tied”</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 1031.895281)">A public demo is available June 11. On June 24 UTC, Protag states</text>
+    <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; fill: #596573" transform="translate(108 1047.995281)">that no NFTs are tied to the game. [E09–E10]</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 11.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="54" y="1097.22275" transform="rotate(-0 54 1097.22275)">The 2023 holder demo and 2024 holder alpha have no documented delivery in the reviewed record.</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="54" y="1116.882281" transform="rotate(-0 54 1116.882281)">Dates are UTC. Event spacing is for readability. Source details and record coverage: EVIDENCE_INDEX.md and METHOD.md.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pc11839cff8">
+   <rect x="0" y="0" width="900" height="1152"/>
+  </clipPath>
+ </defs>
+</svg>

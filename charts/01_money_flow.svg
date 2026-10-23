@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="768.000002pt" viewBox="0 0 1152 768.000002" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-23T10:48:58.813240</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 768.000002 
+L 1152 768.000002 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #f8f7f3"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 51.36 168.000001 
+C 202.9632 168.000001 215.5968 168.000001 367.2 168.000001 
+L 367.2 382.067841 
+C 215.5968 382.067841 202.9632 382.067841 51.36 382.067841 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a; opacity: 0.4"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 51.36 382.067841 
+C 360.7872 382.067841 386.5728 387.510481 696 387.510481 
+L 696 405.856881 
+C 386.5728 405.856881 360.7872 400.414241 51.36 400.414241 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5; opacity: 0.24"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 51.36 400.414241 
+C 360.7872 400.414241 386.5728 464.836081 696 464.836081 
+L 696 483.182482 
+C 386.5728 483.182482 360.7872 418.760641 51.36 418.760641 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5; opacity: 0.24"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 51.36 489.600002 
+C 202.9632 489.600002 215.5968 382.067841 367.2 382.067841 
+L 367.2 387.23429 
+C 215.5968 387.23429 202.9632 494.766451 51.36 494.766451 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a; opacity: 0.5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 380.16 168.000001 
+C 531.7632 168.000001 544.3968 153.6 696 153.6 
+L 696 249.041041 
+C 544.3968 249.041041 531.7632 263.441041 380.16 263.441041 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #198374; opacity: 0.35"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 380.16 263.441041 
+C 531.7632 263.441041 544.3968 271.200001 696 271.200001 
+L 696 326.085841 
+C 544.3968 326.085841 531.7632 318.326881 380.16 318.326881 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #b9842e; opacity: 0.35"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 380.16 318.326881 
+C 531.7632 318.326881 544.3968 352.800001 696 352.800001 
+L 696 387.510481 
+C 544.3968 387.510481 531.7632 353.037361 380.16 353.037361 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5; opacity: 0.35"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 380.16 353.037361 
+C 531.7632 353.037361 544.3968 432.000001 696 432.000001 
+L 696 464.836081 
+C 544.3968 464.836081 531.7632 385.873441 380.16 385.873441 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5; opacity: 0.35"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 380.16 385.873441 
+C 531.7632 385.873441 544.3968 507.360002 696 507.360002 
+L 696 508.720851 
+C 544.3968 508.720851 531.7632 387.23429 380.16 387.23429 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a; opacity: 0.5"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 38.4 168.000001 
+L 51.36 168.000001 
+L 51.36 418.760641 
+L 38.4 418.760641 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #263746"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 38.4 489.600002 
+L 51.36 489.600002 
+L 51.36 494.766451 
+L 38.4 494.766451 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 367.2 168.000001 
+L 380.16 168.000001 
+L 380.16 387.23429 
+L 367.2 387.23429 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 696 153.6 
+L 708.96 153.6 
+L 708.96 249.041041 
+L 696 249.041041 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #198374"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 696 271.200001 
+L 708.96 271.200001 
+L 708.96 326.085841 
+L 696 326.085841 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #b9842e"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 696 352.800001 
+L 708.96 352.800001 
+L 708.96 405.856881 
+L 696 405.856881 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 696 432.000001 
+L 708.96 432.000001 
+L 708.96 483.182482 
+L 696 483.182482 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #356fa5"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 696 507.360002 
+L 708.96 507.360002 
+L 708.96 508.720851 
+L 696 508.720851 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #83909a"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 36.96 547.200002 
+L 1115.04 547.200002 
+Q 1120.8 547.200002 1120.8 552.960002 
+L 1120.8 676.800002 
+Q 1120.8 682.560002 1115.04 682.560002 
+L 36.96 682.560002 
+Q 31.2 682.560002 31.2 676.800002 
+L 31.2 552.960002 
+Q 31.2 547.200002 36.96 547.200002 
+z
+" clip-path="url(#p49c50b967f)" style="fill: #eaf1ef"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 31.2 93.6 
+L 1120.8 93.6 
+" clip-path="url(#p49c50b967f)" style="fill: none; stroke: #d8dedf; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="28.317188" transform="rotate(-0 31.2 28.317188)">SSRWIVES  /  NFT MINT PROCEEDS</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 33px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="31.2" y="62.034844" transform="rotate(-0 31.2 62.034844)">Where the NFT money went</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="81.916875" transform="rotate(-0 31.2 81.916875)">147.16 ETH raised  ·  ≈$267,004 at mint dates  ·  2,880 paid NFTs</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="114.237188" transform="rotate(-0 31.2 114.237188)">RECORDED ETH TRANSFERS</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="128.997657" transform="rotate(-0 31.2 128.997657)">March 21–July 31, 2023  ·  Ethereum mainnet  ·  ribbon width = ETH</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="114.237188" transform="rotate(-0 734.4 114.237188)">DESTINATION TOTALS</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="128.997657" transform="rotate(-0 734.4 128.997657)">ETH plus approximate USD value at transfer dates</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_20">
+     <path d="M 64.8 352.700001 
+L 278.885469 352.700001 
+Q 288.385469 352.700001 288.385469 343.200001 
+L 288.385469 252.000001 
+Q 288.385469 242.500001 278.885469 242.500001 
+L 64.8 242.500001 
+Q 55.3 242.500001 55.3 252.000001 
+L 55.3 343.200001 
+Q 55.3 352.700001 64.8 352.700001 
+z
+" style="fill: #f8f7f3; opacity: 0.96"/>
+    </g>
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(64.8 274.283438)">NFT mint contract</text>
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(64.8 304.506798)">147.16 ETH</text>
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(64.8 333.82172)">≈$267,004 received</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="302.4" y="154.037344" transform="rotate(-0 302.4 154.037344)">Deployer / devWallet</text>
+   </g>
+   <g id="text_10">
+    <g id="patch_21">
+     <path d="M 388.8 446.800001 
+L 599.241875 446.800001 
+Q 606.241875 446.800001 606.241875 439.800001 
+L 606.241875 376.800001 
+Q 606.241875 369.800001 599.241875 369.800001 
+L 388.8 369.800001 
+Q 381.8 369.800001 381.8 376.800001 
+L 381.8 439.800001 
+Q 381.8 446.800001 388.8 446.800001 
+z
+" style="fill: #f8f7f3; opacity: 0.96"/>
+    </g>
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(388.8 392.519376)">125.626667 ETH from mint</text>
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(388.8 413.519376)">+ 3.031954 ETH other inflows</text>
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(388.8 434.519376)">= 128.658620 ETH total in</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="64.8" y="486.877501" transform="rotate(-0 64.8 486.877501)">Other deployer inflows</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="64.8" y="501.39797" transform="rotate(-0 64.8 501.39797)">3.031954 ETH  ·  2.389802 normal + 0.642152 internal</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="734.4" y="176.956876" transform="rotate(-0 734.4 176.956876)">Named payroll wallet</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="734.4" y="199.396407" transform="rotate(-0 734.4 199.396407)">56.01 ETH  ·  ≈$101,286</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="214.637813" transform="rotate(-0 734.4 214.637813)">0x6818…5cf1  ·  published as future developer payroll</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="230.957813" transform="rotate(-0 734.4 230.957813)">See the downstream USDC record below.</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 20px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #b9842e" x="734.4" y="289.756876" transform="rotate(-0 734.4 289.756876)">Coinbase-labelled deposit</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="734.4" y="312.196407" transform="rotate(-0 734.4 312.196407)">32.21 ETH  ·  ≈$58,573</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="326.477813" transform="rotate(-0 734.4 326.477813)">0x7de1…40da  ·  account holder unidentified</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="734.4" y="365.797032" transform="rotate(-0 734.4 365.797032)">kyokoWallet / Sarah Balda (Kyoko)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="734.4" y="388.996407" transform="rotate(-0 734.4 388.996407)">31.14 ETH  ·  ≈$56,561</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="403.277814" transform="rotate(-0 734.4 403.277814)">10.766667 from contract + 20.37 from deployer</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 19px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="734.4" y="444.997033" transform="rotate(-0 734.4 444.997033)">artWallet / David Cortes (HedProtag)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="734.4" y="468.196408" transform="rotate(-0 734.4 468.196408)">30.04 ETH  ·  ≈$54,588</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="482.477814" transform="rotate(-0 734.4 482.477814)">10.766667 from contract + 19.27 from deployer</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="734.4" y="515.117814" transform="rotate(-0 734.4 515.117814)">0.55 ETH other transfers  ·  ≈$1,012</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="734.4" y="528.75797" transform="rotate(-0 734.4 528.75797)">+ 0.173211 ETH gas + 0.075410 ETH closing balance</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="44.16" y="566.397189" transform="rotate(-0 44.16 566.397189)">PAYROLL FOLLOW-THROUGH  /  MAY 2023–MARCH 2024</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="44.16" y="593.956408" transform="rotate(-0 44.16 593.956408)">53 ETH swapped</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="44.16" y="611.477346" transform="rotate(-0 44.16 611.477346)">93,086.20 USDC received</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="44.16" y="630.316721" transform="rotate(-0 44.16 630.316721)">May 12, 2023 UTC</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="333.6" y="593.956408" transform="rotate(-0 333.6 593.956408)">92,962.11 USDC paid out</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="333.6" y="611.477346" transform="rotate(-0 333.6 611.477346)">39 payouts to 7 addresses</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="333.6" y="631.837502" transform="rotate(-0 333.6 631.837502)">Includes 5,500.11 USDC to kyokoWallet</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 700; font-size: 23px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="782.4" y="593.956408" transform="rotate(-0 782.4 593.956408)">0 USDC remaining</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="782.4" y="611.477346" transform="rotate(-0 782.4 611.477346)">After March 8, 2024 UTC payout</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="782.4" y="631.837502" transform="rotate(-0 782.4 631.837502)">Final 1,500.11 USDC → kyokoWallet</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="44.16" y="658.357971" transform="rotate(-0 44.16 658.357971)">USDC reconciliation: 93,086.200052 − 92,962.114971 payouts − 120 spender transfer − 4.085081 round-trip difference = 0.</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="44.16" y="672.277971" transform="rotate(-0 44.16 672.277971)">The payroll wallet retained 0.00036369216618 ETH. This panel follows part of the 56.01 ETH already shown above.</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="705.317424" transform="rotate(-0 31.2 705.317424)">READING THE RECORD</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="720.478127" transform="rotate(-0 31.2 720.478127)">Gross transfers include 3.031954 ETH of non-mint inflows. USD uses Coinbase daily UTC closing prices at each receipt or transfer; amounts are approximate.</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="734.878127" transform="rotate(-0 31.2 734.878127)">Wallet labels: verified contract, preserved OpenSea profiles and the official payroll post. “Payroll” is the published address label; transfers show destination, not all project expenses.</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="749.278127" transform="rotate(-0 31.2 749.278127)">Sources: E04 (Ethereum ledger), E05 (payroll statement). Exact amounts, transaction links and price data: money_flow_data.json. Prepared October 23, 2026.</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #536170" x="31.2" y="762.15844" transform="rotate(-0 31.2 762.15844)">People / handles: Sarah Balda = Kyoko (@bbykyoko / @hope_indecay); David Cortes = HedProtag / Protag (@HedProtag). See METHOD.md.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p49c50b967f">
+   <rect x="0" y="0" width="1152" height="768.000002"/>
+  </clipPath>
+ </defs>
+</svg>

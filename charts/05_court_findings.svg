@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="864pt" viewBox="0 0 1152 864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-23T10:28:09.667718</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 864 
+L 1152 864 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #f8f7f3"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 68.8896 492.6528 
+L 541.6704 492.6528 
+Q 553.1904 492.6528 553.1904 484.0128 
+L 553.1904 241.7472 
+Q 553.1904 233.1072 541.6704 233.1072 
+L 68.8896 233.1072 
+Q 57.3696 233.1072 57.3696 241.7472 
+L 57.3696 484.0128 
+Q 57.3696 492.6528 68.8896 492.6528 
+z
+" clip-path="url(#p452e955f77)" style="fill: #ffffff; stroke: #356fa5; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 621.8496 492.6528 
+L 1083.1104 492.6528 
+Q 1094.6304 492.6528 1094.6304 484.0128 
+L 1094.6304 241.7472 
+Q 1094.6304 233.1072 1083.1104 233.1072 
+L 621.8496 233.1072 
+Q 610.3296 233.1072 610.3296 241.7472 
+L 610.3296 484.0128 
+Q 610.3296 492.6528 621.8496 492.6528 
+z
+" clip-path="url(#p452e955f77)" style="fill: #ffffff; stroke: #a6473e; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 558.417656 362.88 
+Q 581.760892 362.88 603.091666 362.88 
+" clip-path="url(#p452e955f77)" style="fill: none; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 595.891666 359.28 
+L 603.091666 362.88 
+L 595.891666 366.48 
+z
+" clip-path="url(#p452e955f77)" style="fill: #596573; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 576 503.118264 
+Q 576 523.151095 576 541.171465 
+" clip-path="url(#p452e955f77)" style="fill: none; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 579.6 533.971465 
+L 576 541.171465 
+L 572.4 533.971465 
+z
+" clip-path="url(#p452e955f77)" style="fill: #596573; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 68.8896 806.2848 
+L 541.6704 806.2848 
+Q 553.1904 806.2848 553.1904 797.6448 
+L 553.1904 553.6512 
+Q 553.1904 545.0112 541.6704 545.0112 
+L 68.8896 545.0112 
+Q 57.3696 545.0112 57.3696 553.6512 
+L 57.3696 797.6448 
+Q 57.3696 806.2848 68.8896 806.2848 
+z
+" clip-path="url(#p452e955f77)" style="fill: #ffffff; stroke: #a6473e; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 621.8496 806.2848 
+L 1083.1104 806.2848 
+Q 1094.6304 806.2848 1094.6304 797.6448 
+L 1094.6304 553.6512 
+Q 1094.6304 545.0112 1083.1104 545.0112 
+L 621.8496 545.0112 
+Q 610.3296 545.0112 610.3296 553.6512 
+L 610.3296 797.6448 
+Q 610.3296 806.2848 621.8496 806.2848 
+z
+" clip-path="url(#p452e955f77)" style="fill: #ffffff; stroke: #198374; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 558.417656 675.648 
+Q 581.760892 675.648 603.091666 675.648 
+" clip-path="url(#p452e955f77)" style="fill: none; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 595.891666 672.048 
+L 603.091666 675.648 
+L 595.891666 679.248 
+z
+" clip-path="url(#p452e955f77)" style="fill: #596573; stroke: #596573; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="57.6" y="38.220937" transform="rotate(-0 57.6 38.220937)">THE COURT RECORD  /  MAY 29, 2026</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 32px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(57.6 101.025)">The sale was followed by</text>
+    <text style="font-weight: 700; font-size: 32px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(57.6 150.65)">a court-ordered return.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 16px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="57.6" y="175.855" transform="rotate(-0 57.6 175.855)">Preliminary-injunction order  ·  XYZ AI v. Balda et al.</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="57.6" y="205.54725" transform="rotate(-0 57.6 205.54725)">Findings after two days of evidentiary hearings; relief concerning the game IP and company property.</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="57.6" y="225.006312" transform="rotate(-0 57.6 225.006312)">Sarah Balda = Kyoko (@bbykyoko / @hope_indecay)  ·  David Cortes = Protag / HedProtag (@HedProtag)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="92.16" y="270.06825" transform="rotate(-0 92.16 270.06825)">01  /  OWNERSHIP AND PERFORMANCE</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="92.16" y="316.425656" transform="rotate(-0 92.16 316.425656)">The game belonged to XYZ.</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 356.486812)">The court found XYZ was the sole</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 381.136812)">and exclusive owner of the SSR Wives</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 404.139937)">game IP and had fulfilled its</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 428.789937)">contractual obligations.</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #356fa5" x="92.16" y="470.658313" transform="rotate(-0 92.16 470.658313)">Order p. 4, ¶10  [E16]</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="645.12" y="270.06825" transform="rotate(-0 645.12 270.06825)">02  /  RETAINED SOURCE CODE</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="645.12" y="316.507687" transform="rotate(-0 645.12 316.507687)">David Cortes kept the code.</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="645.12" y="339.420375" transform="rotate(-0 645.12 339.420375)">Protag / HedProtag · @HedProtag</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(645.12 377.222812)">He testified under oath that all SSR IP</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(645.12 400.225937)">source code remained on his personal</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(645.12 424.875937)">computer despite repeated demands</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(645.12 451.172812)">for its return.</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="645.12" y="470.658313" transform="rotate(-0 645.12 470.658313)">Order p. 8, ¶32  [E16]</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="57.6" y="533.834828" transform="rotate(-0 57.6 533.834828)">THE COURT’S BREACH FINDING AND THE RELIEF ORDERED</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="92.16" y="581.10825" transform="rotate(-0 92.16 581.10825)">03  /  MATERIAL BREACHES</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="92.16" y="627.465656" transform="rotate(-0 92.16 627.465656)">The agreements were breached.</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 665.879937)">In granting the preliminary injunction,</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 692.176812)">the court found that the individual</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 715.179938)">defendants materially breached their</text>
+    <text style="font-size: 17px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(92.16 739.829938)">NDAs and governing agreements.</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #a6473e" x="92.16" y="784.290313" transform="rotate(-0 92.16 784.290313)">Order pp. 15–16, ¶57  [E16]</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="645.12" y="581.10825" transform="rotate(-0 645.12 581.10825)">04  /  RETURN AND PRESERVATION</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="645.12" y="627.465656" transform="rotate(-0 645.12 627.465656)">Return the property.</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #17212b" x="645.12" y="661.149125" transform="rotate(-0 645.12 661.149125)">Use of game IP and ownership claims barred.*</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="645.12" y="697.050563" transform="rotate(-0 645.12 697.050563)">10 days</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(760.32 697.065375)">Return confidential information</text>
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(760.32 716.009125)">and company equipment.</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 18px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="645.12" y="748.890562" transform="rotate(-0 645.12 748.890562)">20 days</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(760.32 747.327156)">Submit relevant devices, media</text>
+    <text style="font-size: 14px; font-family: 'DejaVu Sans'; fill: #17212b" transform="translate(760.32 766.985125)">and accounts for forensic imaging.</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #198374" x="645.12" y="790.701844" transform="rotate(-0 645.12 790.701844)">Immediate preservation required.  Order pp. 17–18  [E16]</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="57.6" y="832.537375" transform="rotate(-0 57.6 832.537375)">*Bars using SSR IP to develop, launch or promote SSR Wives or develop derivative games, and claiming ownership of SSR IP.</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #596573" x="57.6" y="851.545375" transform="rotate(-0 57.6 851.545375)">Source: May 29, 2026 order, Pinellas County Circuit Court, case 25-006213-CI-19. Deadlines run from entry. Evidence E16.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p452e955f77">
+   <rect x="0" y="0" width="1152" height="864"/>
+  </clipPath>
+ </defs>
+</svg>
